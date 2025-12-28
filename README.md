@@ -3,6 +3,7 @@ This case study shows some practice and data exploration for a few business ques
 All these tables are created using CREATE TABLE statement and data insertion has been done using INSERT INTO Statement.
 There are total 10 business questions present here which have been solved using Joins, CTE, Subqueries, Window functions etc. Few questions have been solved using multiple approaches.
 The Business Questions are as follows:
+
 **Q1. List the top 10 customers by total sales amount. Show CustomerID, Full Name and Total Sales.**
 
 **Q2. Show total sales per month for the year 2023, ordered by month.**
